@@ -1,0 +1,34 @@
+Alice
+    One Partridge
+    Two Doves
+    Three Hens
+    Four Birds
+    Five Rings
+Bob
+    One Partridge
+Carol
+    Four Birds
+    Five Rings
+Dave
+    Four Birds
+    Five Rings
+    Six Geese
+Eve
+    Four Birds
+    Six Geese
+Fred
+    Three Hens
+    Five Rings
+Greg
+    Five Rings
+Hannah
+    Two Doves
+Isabelle
+    One Partridge
+    Two Doves
+    Three Hens
+    Four Birds
+    Five Rings
+Jerry
+    Five Rings
+
